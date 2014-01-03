@@ -8,7 +8,7 @@ Technologies used:
     * Implemented cucumber selenium browser automated testing in the project.
 
 
-###Test cases:####
+###Sample Test cases:####
 
 1.Accounts Controller Spec:
 
