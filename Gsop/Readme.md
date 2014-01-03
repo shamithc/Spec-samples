@@ -1,4 +1,4 @@
-==Gsop
+## Gsop ##
 
 
 Gsop is a Project Management tool designed for managing accounts, contacts, projects etc. Accounts relate to users who manages or creates a project. Contacts are users who can be added to a project by an account user. Projects are any undertakings by an account. Its main aim is to manage the projects created by accounts or users. The whole project is created with a responsive design. Regarding the relationships, a user created is assigned to a particular role. Any number of contacts and projects can be added to a account.
